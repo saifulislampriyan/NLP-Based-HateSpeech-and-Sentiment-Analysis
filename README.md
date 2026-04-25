@@ -36,8 +36,4 @@ This project implements an NLP-based text analysis pipeline for hate speech and 
 - Public opinion analysis
 - Customer feedback analysis
 
-## Future Improvements
-- Integrate BERT or transformer-based models
-- Train supervised hate speech classification models
-- Add evaluation metrics such as accuracy, precision, recall, and F1-score
-- Deploy the project using Streamlit or Flask
+
